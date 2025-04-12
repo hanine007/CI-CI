@@ -35,4 +35,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: test-results-${{ matrix.os }}-node-${{ matrix.node-version }}
-          path: tests/
+          path: test/
