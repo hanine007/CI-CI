@@ -1,6 +1,5 @@
 # 🚀 Node.js CI/CD Pipeline Example
 
-[![CI/CD Pipeline](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/ci.yml/badge.svg)](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions)
 
 This project demonstrates a complete **CI/CD pipeline** using **GitHub Actions** with a simple Node.js API.
 
