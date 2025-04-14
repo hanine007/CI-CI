@@ -7,8 +7,8 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
-  schedule:
-    - cron: '0 2 * * *'  # Tous les jours à 2h
+ # schedule:
+  #  - cron: '0 2 * * *'  # Tous les jours à 2h
 
 jobs:
   test:
